@@ -1,5 +1,5 @@
 def count_numbers():
-    # Open the file in write mode
+    # Open the file in write mode ok
     with open("pass.txt", "w") as file:
         # Iterate through numbers from 0 to 99999999
         for number in range(100000000):
